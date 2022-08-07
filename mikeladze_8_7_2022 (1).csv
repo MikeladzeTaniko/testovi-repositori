@@ -1,0 +1,28 @@
+﻿sep=,
+"ID","Title","Assigned To","Case ID","Comment","Defects","Elapsed","Estimate","Forecast","In Progress","Plan","Plan ID","Priority","References","Run","Run Configuration","Run ID","Section","Section Depth","Section Description","Status","Tested By","Tested On","Type","Version"
+"T53405","Добавление файла в программу","bastidigger@yandex.ru","C2815","","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Passed","bastidigger@yandex.ru","8/7/2022 5:37 PM","Other",""
+"T53406","Удаление  файла","bastidigger@yandex.ru","C2816","HARDLOAD-19 Не всплывает вопрос об удалении и не удаляется файл в программе hardload.exe","","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Failed","bastidigger@yandex.ru","8/7/2022 5:49 PM","Other",""
+"T53408","Выбор папки для копирования через окно ""Обзор папок""","","C2819","","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Passed","bastidigger@yandex.ru","8/7/2022 5:57 PM","Other",""
+"T53409","Копирование файлов в папку, выбранную через диалог Обзор папок","","C2820","","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Passed","bastidigger@yandex.ru","8/7/2022 5:59 PM","Other",""
+"T53411","Копирование файлов в папку, введя вручную путь до папки","bastidigger@yandex.ru","C2822","","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Passed","bastidigger@yandex.ru","8/7/2022 6:00 PM","Other",""
+"T53412","Остановка загрузки","bastidigger@yandex.ru","C2823","","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Passed","bastidigger@yandex.ru","8/7/2022 6:01 PM","Other",""
+"T53410","Копирование файлов не выбирая папку","bastidigger@yandex.ru","C2821","HARDLOAD-20 Не всплывает предупреждение о невыбранной папки","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Failed","bastidigger@yandex.ru","8/7/2022 6:10 PM","Other",""
+"T53407","Удаление не выбирая файл","bastidigger@yandex.ru","C2818","","","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Passed","bastidigger@yandex.ru","8/7/2022 6:12 PM","Other",""
+"T53413","Копирование файлов не отмечая файлы","bastidigger@yandex.ru","C2824","HARDLOAD-21 Не всплывает предупреждение о невыбранном файле для копирования ","","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Функциональные проверки hardload.exe","1","","Failed","bastidigger@yandex.ru","8/7/2022 6:18 PM","Other",""
+"T53400","Выравнивание элементов по базовым линиям","bastidigger@yandex.ru","C2810","HARDLOAD-8 HARDLOAD-9","HARDLOAD-8 HARDLOAD-9","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Проверка интерфейса hardload.exe","1","","Failed","bastidigger@yandex.ru","8/7/2022 3:51 PM","Other",""
+"T53401","Измерение размера кнопок интерфейса","bastidigger@yandex.ru","C2811","","HARDLOAD-10","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Проверка интерфейса hardload.exe","1","","Failed","bastidigger@yandex.ru","8/7/2022 4:00 PM","Other",""
+"T53402","Правильность написания текста и грамматические ошибки","bastidigger@yandex.ru","C2813","HARDLOAD-11
+HARDLOAD-12 
+HARDLOAD-13
+HARDLOAD-14
+HARDLOAD-15
+HARDLOAD-16
+HARDLOAD-17
+HARDLOAD-18
+","","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Проверка интерфейса hardload.exe","1","","Failed","bastidigger@yandex.ru","8/7/2022 5:22 PM","Other",""
+"T53403","Отображение названия программы","bastidigger@yandex.ru","C2814","HARDLOAD-18 Не точное название программы в шапке  с названием программы hardload.exe","","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Проверка интерфейса hardload.exe","1","","Failed","bastidigger@yandex.ru","8/7/2022 5:34 PM","Other",""
+"T53404","Появление вертикального скрола","bastidigger@yandex.ru","C2825","","","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Проверка интерфейса hardload.exe","1","","Passed","bastidigger@yandex.ru","8/7/2022 5:35 PM","Other",""
+"T53414","Удаление 100  файлов из списка","bastidigger@yandex.ru","C2817","блокирует тестирование
+HARDLOAD-19 Не всплывает вопрос об удалении и не удаляется файл в программе hardload.exe","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Нагрузочное тестирование","1","","Blocked","bastidigger@yandex.ru","8/7/2022 6:21 PM","Other",""
+"T53415","Копирование 100 файлов из списка","bastidigger@yandex.ru","C2848","","","","","","","","","Medium","","Mikeladze 8/7/2022","","R372","Нагрузочное тестирование","1","","Passed","bastidigger@yandex.ru","8/7/2022 6:25 PM","Other",""
+"T53416","Копирование файла размером 50GB","bastidigger@yandex.ru","C2856","","","","","","","","","High","","Mikeladze 8/7/2022","","R372","Нагрузочное тестирование","1","","Passed","bastidigger@yandex.ru","8/7/2022 6:27 PM","Other",""
